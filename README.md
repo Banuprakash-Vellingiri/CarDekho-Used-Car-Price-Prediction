@@ -5,11 +5,11 @@
    The goal of this  project is to predict the current selling price of used cars in the market. This can be achieved by  building a machine learning model which is trained by the diverse data of cars taken from 🔗[cardekho.com](https://www.cardekho.com/).
 
 ### 📄Dataset information :
- As i had mentioned above, the dataset is taken from the 🔗[cardekho.com](https://www.cardekho.com/) by web scraping.
+ As i had mentioned above, the dataset was taken from the 🔗[cardekho.com](https://www.cardekho.com/) by web scraping.
  - __About🚘Cardekho__:
             CarDekho is a prominent online platform in the Indian automotive industry, offering a comprehensive range of services. Users can access detailed information, specifications, and reviews for various car models, aiding in informed decision-making. The platform features listings for both new and used cars, providing a marketplace for buying and selling vehicles. CarDekho also offers comparison tools, enabling users to assess different models based on specific criteria.
  
- I had recieved the scraped dataset from a authorised team in 🔗[guvi](https://www.guvi.in/).The dataset holds huge information about cars which includes **car name,model name,manufacturing year, mileage, engine power, transmission power, fuel type, interior and exterior features availability,selling price  and so on**.There are 6 different chunks of datasets are available which belongs to cities such as bangalore,coimbatore, chennai,delhi, jaipur and kolkata. The datasets are in ".xlsx" format.
+ I had recieved this scraped dataset from a authorised team in 🔗[guvi](https://www.guvi.in/).The dataset holds huge information about cars which includes **car name,model name,manufacturing year, mileage, engine power, transmission power, fuel type, interior and exterior features availability,selling price  and so on**.There are 6 different chunks of datasets are available which belongs to cities such as bangalore,coimbatore, chennai,delhi, jaipur and kolkata. The datasets are in ".xlsx" format.
 ### 🐾 Steps involved :
 This project involves a basic machine learning pipeline.
 
