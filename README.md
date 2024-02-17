@@ -40,7 +40,7 @@ This project involves a basic machine learning pipeline.
   - Various evaluation metrics were calculated and the model was fine tunned.
   - Finally a machine learning model was built with a good accuracy in predicting the selling price of the cars.
 ### 🌐streamlit :
- - A web application (GUI) was built by using streamlit To intake input from the user and to display the predicted price.
+ - A web application (GUI) was built by streamlit, to intake input from the user and to display the predicted sellining price.
 
 
 
