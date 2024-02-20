@@ -50,6 +50,7 @@ This project involves a basic machine learning pipeline.
 
 - [Python](https://docs.python.org/3/)
 - [pandas](https://pandas.pydata.org/docs/)
+- [Numpy](https://numpy.org/doc/)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Sci-kit learn](https://scikit-learn.org/stable/)
